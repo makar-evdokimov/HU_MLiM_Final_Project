@@ -28,7 +28,7 @@ Set the following environment variables before running the pipeline:
 
 
 Before running the pipeline, set the path for the folder with config.yaml as a working directory
-and set the value of config['path'] in config.yaml as the path for the folder with files
+and set the value of config['path'] in config.yaml as the path for the folder with files from this repository.
 
 PATH_REPO (working directory) should be te path to the folder that contatins this folder.
 
