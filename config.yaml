@@ -1,0 +1,32 @@
+author: me
+date: 15-04-2021
+version: 1.2
+path: C:/Users/Private/Documents/MLiM Model (example)
+word2vec:
+  size: 100
+  iter: 2
+  workers: 2
+  sg: 1
+  negative: 10
+tsne: 
+  perplexity: 10
+  n_components: 2
+  init: pca
+  n_iter: 10000
+  random_state: 1185
+data:
+  n_cat: 25
+model:
+  objective: binary
+  num_leaves: 223
+  min_child_samples: 50
+  metric: binary_logloss
+  feature_fraction: 0.9626234354661443
+  boosting_type: gbdt
+  bagging_freq: 5
+  bagging_fraction: 0.5124913833116888
+  lambda_l1: 0.002038958715762928,
+  lambda_l2: 0.00011006427831708134
+optimizer:
+  n_iter: 100
+    
