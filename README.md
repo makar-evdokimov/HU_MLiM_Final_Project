@@ -1,5 +1,5 @@
 # HU_MLiM_Final_Project
-This repository contains the model developed by my team as a final project in the course "Machine Learning in Marketing" offered by School of Economics and Business, Humboldt University of Berlin in Winter Semester 20/21. 
+This repository contains the predictive ML-based model developed by my team as a final project in the course "Machine Learning in Marketing" offered by School of Economics and Business, Humboldt University of Berlin in Winter Semester 20/21. 
 
 The task was to build the algorithm searching for the offering of discount coupons to the shoppers that maximizes the expected revenue of a grocery store on a successive week. Final coupon offering includes the discounts on 5 different products (the total product range is 250) for each of 2,000 shoppers, choice of discounted products and discount sizes is shopper-specific. 
 
